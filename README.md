@@ -1,14 +1,42 @@
+### Hi there 👋
 
+<!--
+**annkit-singh/annkit-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...###Data Structure and Algorithms
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...ankit871681@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Aankit 👨‍💻
+  Hi there 👋 I'm Aankit 👨‍💻 
 </h1>
 
 <p align='center'>
-  A Java developer and a Data Science Enthusiast from Jammu & Kashmir, India.
+  A self taught Java developer and a Data Science Enthusiast from Jammu & Kashmir, India.
 </p>
 <p align='center'>
+
+**Languages and Tools:**  
+
+<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/python.jpg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/jupyter.jpg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/mongodb.jpg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/mysql.jpg"></code>    
+<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/jupyter.jpg"></code>  
+<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/vscode.jpg"></code>  
+<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/eclipse"></code>  
+
+
   
 
   <a href="https://www.linkedin.com/in/aankit-singh-a10982153/">
