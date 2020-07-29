@@ -25,18 +25,6 @@ Here are some ideas to get you started:
 </p>
 <p align='center'>
 
-**Languages and Tools:**  
-
-<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/python.jpg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/jupyter.jpg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/mongodb.jpg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/mysql.jpg"></code>    
-<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/jupyter.jpg"></code>  
-<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/vscode.jpg"></code>  
-<code><img height="40" src="https://raw.githubusercontent.com/annkit-singh/master/Icons/eclipse"></code>  
-
-
   
 
   <a href="https://www.linkedin.com/in/aankit-singh-a10982153/">
