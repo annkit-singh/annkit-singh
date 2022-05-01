@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align='center'>
-  A self taught Java developer and a Data Science Enthusiast from Jammu & Kashmir, India.
+  A self taught Java developer from Jammu & Kashmir, India.
 </p>
 <p align='center'>
 
