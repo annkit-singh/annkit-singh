@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align='center'>
-A high academic achiever, problem solver & an IT professional with a total of 2.5 years of experience in product (fintech)
+A high academic achiever, problem solver & an IT professional with a total of 3 years of experience in product (fintech)
 & service based companies. Currently looking for more challenging opportunities & some great minds to work with.
 </p>
 <p align='center'>
